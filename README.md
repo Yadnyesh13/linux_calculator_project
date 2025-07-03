@@ -2,6 +2,7 @@
 linux Calculator project 
 
 #prerequisite
+
 sudo yum install git -y
 OR
 sudo apt install git -y 
