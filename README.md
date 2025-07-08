@@ -1,11 +1,13 @@
 # linux_calculator_project
 
---linux Calculator project--
-'''
+* **linux Calculator project**:
+  
+'''bash
 prerequisite-
 sudo yum install git -y
 OR
 sudo apt install git -y 
+'''
 
 #clone project
 https://github.com/Yadnyesh13/linux_calculator_project.git
