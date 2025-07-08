@@ -1,8 +1,8 @@
 # linux_calculator_project
 
 --linux Calculator project--
-
--prerequisite-
+'''
+prerequisite-
 sudo yum install git -y
 OR
 sudo apt install git -y 
@@ -18,3 +18,4 @@ touch calculator.sh
 nano calculator.sh 
 chmod +x calculator.sh 
 ./calculator.sh 
+'''
